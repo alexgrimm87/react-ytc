@@ -1,0 +1,12 @@
+.buttonLink {
+  display: inline-block;
+  font-weight: 500;
+  border: unset;
+  background: unset;
+  cursor: pointer;
+  transition: all 300ms ease;
+
+  &:hover {
+    opacity: .7;
+  }
+}
